@@ -5,26 +5,15 @@ My names is Kinga. Im a beginner frontend developer. 👩🏽‍💻 I am a pers
 
 ## 🌱 I’m currently learning ...
 My skillset includes🛠️
-- JavaScript ES6+ 
+- `JavaScript ES6+`
 - React
 - Redux-Saga
-- Redux (Toolkit)
-- React Hooks
 - React Router
 - Semantic & accessible HTML
 - Responsive Web Design
-- CSS BEM convention
-- CSS Grid
-- CSS Flexbox
+- CSS 
 - Working with API (axios, fetch)
 - Teamwork
-- Markdown
-- Immutability
-- Error handling
-- Promises, Async/Await
-- GitHub Pull Requests & Review
-- Trello
-- Scrum
 - NPM
 
 
