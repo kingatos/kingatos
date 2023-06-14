@@ -1,6 +1,6 @@
 ### Hi world! 👋
 
-My names is Kinga. Im a beginner frontend developer.👩🏽‍💻 </br>  I am a person who wants to constantly develop. </br> I want to associate my future with programming.
+My names is Kinga. Im a beginner frontend developer.👩🏽‍💻 </br>  I am a person who wants to constantly develop. </br> I want to associate my future with programming. If you are interested in myself - contact me!
 
 ## 🌱 I’m currently learning ...
 My skillset includes🛠️
