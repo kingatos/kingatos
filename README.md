@@ -15,7 +15,6 @@ My skillset includes🛠️
 - `Teamwork`
 - `NPM`
 
-
 What I want to learn next 🚀
 - `Typescript`
 - `Node.js`
@@ -23,7 +22,6 @@ What I want to learn next 🚀
 - `React Context`
 - `Cypress`
 - `JS classes`
-
 
 ## 👯 I’m looking to collaborate on
 - `frontend development`
