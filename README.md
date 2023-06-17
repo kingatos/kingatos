@@ -25,6 +25,7 @@ What I want to learn next 🚀
 
 ## 👯 I’m looking to collaborate on
 - `frontend development`
+- `specialist to website`
 
 ## 📫 How to reach me: 
 [HIRE ME](toskinga01@gmail.com) </br>
