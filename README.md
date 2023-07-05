@@ -29,7 +29,7 @@ What I want to learn next 🚀
 
 ## 📫 How to reach me: 
 [HIRE ME](toskinga01@gmail.com) </br>
-[IN](https://www.linkedin.com/in/kinga-tos/)
+[LINKEDIN](https://www.linkedin.com/in/kinga-tos/)
 
 <!--
 **kingatos/kingatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
